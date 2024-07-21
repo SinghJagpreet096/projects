@@ -1,3 +1,18 @@
 [submodule "Alzheimer-s-Diagnostic"]
 	path = Alzheimer-s-Diagnostic
 	url = https://github.com/SinghJagpreet096/Alzheimer-s-Diagnostic
+[submodule "text-to-sql"]
+	path = text-to-sql
+	url = https://github.com/SinghJagpreet096/text-sql
+[submodule "Document-Reader"]
+	path = Document-Reader
+	url = https://github.com/SinghJagpreet096/Document-Reader
+[submodule "American-Sign-Langauge"]
+	path = American-Sign-Langauge
+	url = https://github.com/SinghJagpreet096/ASL
+[submodule "Air-Bnb-PricePrediction-E2E"]
+	path = Air-Bnb-PricePrediction-E2E
+	url = https://github.com/SinghJagpreet096/airbnbpriceprediction
+[submodule "Youtube-Analysis"]
+	path = Youtube-Analysis
+	url = https://github.com/SinghJagpreet096/YouTube_analysis

@@ -16,3 +16,6 @@
 [submodule "Youtube-Analysis"]
 	path = Youtube-Analysis
 	url = https://github.com/SinghJagpreet096/YouTube_analysis
+[submodule "gpt2"]
+	path = gpt2
+	url = https://github.com/SinghJagpreet096/gpt2
